@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaobuao&hide=&theme=chartreuse-dark)](https://miaobuao.github.io/)
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaobuao" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=miaobuao&theme=chartreuse-dark" /> </div>
